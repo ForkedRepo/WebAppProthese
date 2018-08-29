@@ -1,0 +1,5 @@
+2018-08-24 11:01:34.2883 INFO Here is info message from our values controller.
+2018-08-24 11:01:37.6404 INFO Here is info message from our values controller.
+2018-08-24 11:01:38.0811 INFO Here is info message from our values controller.
+2018-08-24 11:01:38.3447 INFO Here is info message from our values controller.
+2018-08-24 11:01:39.0413 INFO Here is info message from our values controller.
